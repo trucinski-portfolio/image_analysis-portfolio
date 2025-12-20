@@ -1,0 +1,7 @@
+Coffee Bean Size Summary
+------------------------
+Min area threshold: 150
+Count (beans): 47
+Mean area (pixels): 916.85
+Count < mean/2: 8
+P(area < mean/2): 0.170
