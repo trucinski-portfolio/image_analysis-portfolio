@@ -1,0 +1,6 @@
+Nuclei count: 12
+Spot count: 64
+Spots per nucleus: 5.33
+Spot sensitivity factor (Otsu * factor): 3.35
+Spot min_distance: 3
+Distance smoothing sigma: 1.25
